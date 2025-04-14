@@ -1,1 +1,17 @@
 new data added in test branch - aws file
+ "shipper": {
+      "contact": {
+        "personName": "Trimas PKG - US Dispensing EU",
+        "phoneNumber": "9876543210",
+        "companyName": "Trimas PKG - US Dispensing EU"
+      },
+      "address": {
+        "streetLines": [
+          "Innovation Campus Way West 8200"
+        ],
+        "city": "New Albany",
+        "stateOrProvinceCode": "OH",
+        "postalCode": "43054",
+        "countryCode": "US"
+      }
+}
