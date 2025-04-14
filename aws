@@ -10,6 +10,7 @@ new data added in test branch - aws file
           "Innovation Campus Way West 8200"
         ],
         "city": "New Albany",
+         "Phone": "1234567890"
         "stateOrProvinceCode": "OH",
         "postalCode": "43054",
         "countryCode": "US"
